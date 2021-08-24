@@ -5,6 +5,7 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 ## Table of Contents
 
+<!--
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
@@ -14,9 +15,9 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
- <!-- 10. [Recursion I](#10-recursion-i)
-10. [Recursion II](#11-recursion-ii)
-11. [Next Steps](#12-next-steps) -->
+10. [Recursion I](#10-recursion-i)
+11. [Recursion II](#11-recursion-ii)
+12. [Next Steps](#12-next-steps) -->
 
 ## Additional Resources
 
