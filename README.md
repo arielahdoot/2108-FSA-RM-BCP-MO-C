@@ -53,7 +53,7 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 ## **01 Introduction and Tidy Code**
 
-**[Live Lecture](https://youtu.be/WIVoNPpUFrY)**
+**[Live Lecture](https://youtu.be/ETeNTB7QS_w)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
