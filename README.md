@@ -5,8 +5,8 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 ## Table of Contents
 
-1. [Introduction And Tidy Code](#01-introduction-and-tidy-code) <!--
-2. [Loops And Debugging](#02-loops-and-debugging)
+1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
+<!-- 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
