@@ -90,11 +90,11 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
 5. [Break Keyword](02-loops-and-debugging/E-break.js)
 
-<!-- ## **03 Coercion and Truthiness**
+## **03 Coercion and Truthiness**
 
 [Lecture Slides](03-coercion-and-truthiness/Coercion-and-Truthiness.pdf)
 
-**[Live Lecture](https://youtu.be/uRI-lSi1mik)**
+**[Live Lecture](https://youtu.be/1rjSVHJdMCw)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed59/text)
 
@@ -102,7 +102,7 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 --- _Link to live review in the next section (Caesar Cypher)_ ---
 
-## **04 Caesar Cypher**
+<!-- ## **04 Caesar Cypher**
 
 **[Live Lecture (REACTO) and Live Review(Coercion and Truthiness)](https://youtu.be/jlNKcjhlIrE)**
 
