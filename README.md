@@ -111,7 +111,7 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
-<!-- --- Solution code from live review in `04-reacto/review.js`
+--- Solution code from live review in `04-reacto/review.js`
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
@@ -124,7 +124,7 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 ## **05 Scope**
 
-**[Live Lecture](https://youtu.be/zjmWpFAjsZM)**
+**[Live Lecture + Workshop Review](https://youtu.be/MvXHTvMtbio)**
 
 **[Scope Workshop Problems 4 & 5 Review](https://youtu.be/zxzapd17ThM)**
 
@@ -144,7 +144,7 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 6. [Hoisting](05-scope/F-hoisting.js)
 7. [Best Practices](05-scope/G-bestpract.js)
 
-## **06 Arrays I**
+<!--## **06 Arrays I**
 
 **[Live Lecture](https://youtu.be/LR6eUfXLQKY)**
 
