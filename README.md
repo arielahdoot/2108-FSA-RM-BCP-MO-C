@@ -1,4 +1,5 @@
 # 2108-FSA-RM-BCP-MO-C
+
 Hello! This is where Ariel, Fergal, and David will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
 
 [![Run on Repl.it](https://repl.it/badge/github/arielahdoot/2108-FSA-RM-BCP-MO-C)](https://repl.it/github/arielahdoot/2108-FSA-RM-BCP-MO-C)
@@ -7,16 +8,16 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
-<!-- 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-4. [Caesar Cypher](#04-caesar-cypher)
-5. [Scope](#05-scope)
-6. [Arrays I](#06-arrays-I)
-7. [Arrays II](#07-arrays-ii)
-8. [Sudoku Validator](#08-sudoku-validator)
-9. [Objects](#09-objects)
-10. [Recursion I](#10-recursion-i)
-11. [Recursion II](#11-recursion-ii)
-12. [Next Steps](#12-next-steps) -->
+ <!-- 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+3. [Caesar Cypher](#04-caesar-cypher)
+4. [Scope](#05-scope)
+5. [Arrays I](#06-arrays-I)
+6. [Arrays II](#07-arrays-ii)
+7. [Sudoku Validator](#08-sudoku-validator)
+8. [Objects](#09-objects)
+9. [Recursion I](#10-recursion-i)
+10. [Recursion II](#11-recursion-ii)
+11. [Next Steps](#12-next-steps) -->
 
 ## Additional Resources
 
@@ -100,15 +101,19 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
-<!-- --- _Link to live review in the next section (Caesar Cypher)_ ---
+_Link to live review in the next section (Caesar Cypher)_ ---
 
 ## **04 Caesar Cypher**
 
-**[Live Lecture (REACTO) and Live Review(Coercion and Truthiness)](https://youtu.be/jlNKcjhlIrE)**
+**[Live Lecture (REACTO)](https://youtu.be/bIXEB4iKmCM)**
+
+**[Solution - Caesar Cypher](https://youtu.be/AN2fwt0n454)**
+
+**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
-Solution code from live review in `04-reacto/review.js`
+<!-- --- Solution code from live review in `04-reacto/review.js`
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
