@@ -101,8 +101,6 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
-_Link to live review in the next section (Caesar Cypher)_ ---
-
 ## **04 Caesar Cypher**
 
 **[Live Lecture (REACTO)](https://youtu.be/bIXEB4iKmCM)**
