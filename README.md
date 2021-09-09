@@ -144,9 +144,9 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 6. [Hoisting](05-scope/F-hoisting.js)
 7. [Best Practices](05-scope/G-bestpract.js)
 
-<!--## **06 Arrays I**
+## **06 Arrays I**
 
-**[Live Lecture](https://youtu.be/LR6eUfXLQKY)**
+**[Live Lecture + Solutions](https://youtu.be/B8C-TeMZU88)**
 
 **[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
 
@@ -173,7 +173,7 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
-## **07 Arrays II**
+<!--## **07 Arrays II**
 
 **[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
 
