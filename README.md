@@ -173,11 +173,11 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
-<!--## **07 Arrays II**
+## **07 Arrays II**
 
 **[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
 
-**[Live Lecture](https://youtu.be/aqgc3tw5PvI)**
+**[Live Lecture + Workshop Review](https://youtu.be/ys1_8lFANrc)**
 
 **[Review](07-arraysII/solutions.js)**
 
@@ -187,7 +187,7 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-## **08 Sudoku Validator**
+<!--## **08 Sudoku Validator**
 
 **[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
