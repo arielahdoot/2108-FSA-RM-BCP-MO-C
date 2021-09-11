@@ -187,9 +187,9 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-<!--## **08 Sudoku Validator**
+## **08 Sudoku Validator**
 
-**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
+**[Live Lecture + Review](https://youtu.be/NSmLIUAPIYE)**
 
 **[Review](https://youtu.be/kYe2oNQmO04)**
 
@@ -203,7 +203,7 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 [Our Solutions](https://codepen.io/habst/pen/bGBPRYq?editors=0010)
 
-## **09 Objects**
+<!--## **09 Objects**
 
 **[Live Lecture](https://youtu.be/zmiCx3MrUow)**
 
