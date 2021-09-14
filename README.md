@@ -8,14 +8,14 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
- <!-- 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-3. [Caesar Cypher](#04-caesar-cypher)
-4. [Scope](#05-scope)
-5. [Arrays I](#06-arrays-I)
-6. [Arrays II](#07-arrays-ii)
-7. [Sudoku Validator](#08-sudoku-validator)
-8. [Objects](#09-objects)
-9. [Recursion I](#10-recursion-i)
+3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+4. [Caesar Cypher](#04-caesar-cypher)
+5. [Scope](#05-scope)
+6. [Arrays I](#06-arrays-I)
+7. [Arrays II](#07-arrays-ii)
+8. [Sudoku Validator](#08-sudoku-validator)
+9. [Objects](#09-objects)
+ <!-- 9. [Recursion I](#10-recursion-i)
 10. [Recursion II](#11-recursion-ii)
 11. [Next Steps](#12-next-steps) -->
 
@@ -203,9 +203,9 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 [Our Solutions](https://codepen.io/habst/pen/bGBPRYq?editors=0010)
 
-<!--## **09 Objects**
+## **09 Objects**
 
-**[Live Lecture](https://youtu.be/zmiCx3MrUow)**
+**[Live Lecture](https://youtu.be/L9xu5mI6oKI)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
@@ -257,7 +257,7 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 **[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
-## **10 Recursion I**
+<!-- ## **10 Recursion I**
 
 [Lecture Slides](10-recursion-i/recursion-i.pdf)
 
