@@ -15,9 +15,9 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
- <!-- 9. [Recursion I](#10-recursion-i)
-10. [Recursion II](#11-recursion-ii)
-11. [Next Steps](#12-next-steps) -->
+10. [Recursion I](#10-recursion-i)
+ <!-- 11. [Recursion II](#11-recursion-ii)
+12. [Next Steps](#12-next-steps) -->
 
 ## Additional Resources
 
@@ -257,11 +257,11 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 **[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
-<!-- ## **10 Recursion I**
+## **10 Recursion I**
 
 [Lecture Slides](10-recursion-i/recursion-i.pdf)
 
-**[Live Lecture](https://youtu.be/wuoNJN-LlaE)**
+**[Live Lecture](https://youtu.be/B5BpPFrAfb0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
@@ -271,7 +271,7 @@ Hello! This is where Ariel, Fergal, and David will put all the material for BCP.
 
 [Full Notes](10-recursion-i)
 
-## **11 Recursion II**
+<!-- ## **11 Recursion II**
 
 [Lecture Slides](11-recursion-ii/recursion-ii.pdf)
 
